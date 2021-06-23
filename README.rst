@@ -1,3 +1,6 @@
+This is a forked&contributed but unfortunately refused repository.
+==================================================================
+
 discord.py
 ==========
 
